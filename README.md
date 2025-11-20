@@ -49,5 +49,4 @@ This dashboard helps understand:
 
 👤 Author
 
-Fazil Ahamed
- ( Fresher Data Analyst )
+Fazil Ahamed - Data Analyst ( Fresher )
